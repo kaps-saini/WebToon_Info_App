@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Anime Manga Toon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_image">Content image</string>
+    <string name="button_to_add_to_favorite">button to add to favorite</string>
+
+    </resources>
